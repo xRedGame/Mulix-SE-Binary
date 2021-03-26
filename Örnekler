@@ -11,3 +11,20 @@ using System.Drawing;
             MessageBox.Show("Merhaba Dünya, Ben Mulix!");
         }
      }//end of main
+     
+     //*
+     *2. Örnek
+     //*
+using System;
+using System.IO;
+using System.Console;
+using System.Drawing;
+
+
+     void Main()
+     {//main
+        private void btnButton1Click(object)
+        {
+            Console.Log('Naynaynaynanayanaynay');
+        }
+     }//end of main     
